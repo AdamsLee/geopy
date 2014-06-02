@@ -65,6 +65,8 @@ geocode locations in Cleveland, Ohio, you could do::
 from geopy.geocoders.arcgis import ArcGIS
 from geopy.geocoders.bing import Bing
 from geopy.geocoders.googlev3 import GoogleV3
+from geopy.geocoders.baiduv1 import BaiduV1
+from geopy.geocoders.baiduv2 import BaiduV2
 from geopy.geocoders.dot_us import GeocoderDotUS
 from geopy.geocoders.geonames import GeoNames
 from geopy.geocoders.placefinder import YahooPlaceFinder
